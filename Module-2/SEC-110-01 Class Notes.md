@@ -1,0 +1,50 @@
+- **Social Engineering**
+	- Asking someone to do something they would not other wise do
+	- Human Vector
+	- Techniques 
+		- Project Confidence
+		- Use evasion and  diversion
+		- Make the victim laugh
+- Phishing Attacks
+	- Emails that make false claims to get someone to provide their information
+	- Spear Phishing
+		- Targeting a group of people
+	-  Whaling
+		- Targets Heads of companies
+	- Vishing
+		- Voice Calls
+	- Smishing
+		- Text messages
+- Check your Sent Emails
+	- Attackers can forward your emails
+- Water hole attacks
+	- Targets smaller groups
+- Dumpster Diving
+	- Gather physical information form dumpsters
+- Shoulder surfing
+	- people watching over your shoulder while your on your device
+-  Mantrap
+	- The rotating doors, helps proviant overloading the entrance of secure buildings 
+- Data Lose Prevention - DLP
+- Faraday cage
+	- Prevents data from leaving the cage
+- Data Types
+	- Confidential
+	- Private
+	- Sensitive
+	- Public
+	- Restricted
+- Data at rest
+	- Stored
+- Data in transit
+	- Sent over the network
+- Data processing
+	- Finding the data
+- Data minimization
+	- Share only what is necessary
+- Data masking
+	- Hash your information
+- Tokenization
+	- Split the data up so only the end of the data is shown
+-  Segmentation
+	- Use V-LANs to separate network 
