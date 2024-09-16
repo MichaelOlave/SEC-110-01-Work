@@ -1,1 +1,49 @@
 - **Cryprography**
+      - Practice of scrambling information so that the meaning can not be understud by unautherized users
+- **Steganography**
+      - Hinding the message
+      - Data can be hidden in video and audio files in the meta data 
+- **Meta Data**
+      - information about the file
+- **Plain Text**
+      - unencrypted data that is encrypted and decrypted
+- **Cipher Text**
+      - Scrambled or unreadable text
+- **Clear Text**
+      - Text not intended to be encrypted
+- **Key**
+      - Mathmatical value sent through an algorithem to produce cipher text
+      - Used to encrypt/decrypt
+- **Nonrepudiation**
+      - Proves that a user preformed an action
+- **Obfuscation**
+      - Obscure Data
+- **Stream Cipher**
+      - One Character at a time
+- **Block Cipher**
+      - Large sections at a time
+- **Hash Algorithm**
+      - Has a unique Digital Finger Print
+- **Symmetric Cryptography Algorithms**
+      - Use one key for encryption / decryption
+- **Asymmetric Cryptography Algorithms**
+      - Use two keys public / private
+- **Public Key**
+      - Sharable / visible to all
+- **Private Key**
+      - Not sharable / visable to all
+- **Digital Signature Algorithm (DSA)**
+      - Web sites / programs have a certificate the proves to users that they are authentic
+- **File and File System Encryption**
+      - *Full Disk Encryption (FDE)*
+            - Encrypts the entire disk
+      - *Volume Enctyption*
+            - Encrypt parts of a disk
+- **Self Encrypting Drives**
+      - Encrypts every file added
+      - If authentication fails you can set it up to delete the entire drive for safty
+- **Trusted Platform Module (TPM)**
+      - Chip on motherboard to authenticate device
+- **Collision Attack**
+      - Attempt to find two input strings of a hash function that produce the same hash results
+      - When two files have the same digest
