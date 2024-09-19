@@ -1,0 +1,21 @@
+End points - devices on a network
+  vulnerbilitys - software, other
+Malware - software to interfear with a systems operations / steal information
+Randsomeware - for extorts money by deniying operation of a system until paied
+  blocking - bloccks users from normal use
+  locking - encrypts some or all the files on a device so they can not be opened
+Keyloggers - logs your key strokes some can take screenshots
+  hardware connection can connect to a network for easy access to your key strokes
+spyware - tracks software that is deployed without consent (allows them to see what you are doing)
+Trojan - program that masquerades as performing a benign activity while actualy doing something malicious
+Remote Access Trojan (RAT) - same as Trojan but givs the attacker remote access to the system
+File Virus -  takes advantage 
+Worm - replicating network virus
+Bloatware - programs that are installed without consent of user (preinstalled junk) some may contain malware
+Jailbreaking is iligal - apps can be installed that might be dangerus to others
+DDOS - copy a file on a system and requesting a large group of other systems to request that file to criple the targeted system
+logic bomb - code that is typically added to a legitimate program that lies dormant and evades detection until a spacific logic event triggers it
+Rootkit - accesses the lower layers of the OS
+Backdoor - gives access to a computer program or service that circumvents any normal security
+IOA - indicator of attack - somthing suspisions is brought to attention - if your account is locked - blocked content - impossible travel - concurent session usage - out of cycle logging
+IOC = indicator of compermise
