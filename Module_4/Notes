@@ -36,4 +36,16 @@ Host intrusion Prevention Systems (HIPS)
 Endpoints Detection and Response (EDR)
 automated patch managment tools - downloads patches once and distributes the patch to the network as well as delaying and roleing back patches
 Sandbox - like a VM but included in windows
+Segmentation - separates business data from personal data on mobile devices
+  you can use containerization or separating storage into buisness and personal containers
+Mobile Device Management (MDM) - tools that allow an organization to manage devices remotely
+Mobile Application Management (MAM) - Application management
+Mobile Content Management (MCM) - creation, editing, and modification of digitsl content by multiple people
+Unified Endpoint Management (UEM) - provides capabilities for managing and securing mobile devices, applications, and content
+Embedded systems - hardware and software contained within a larger system designed for a spacific function
+Internet of Things (IoT) - any device that is connected to the internet for the purpose of sending and receving data to preform an action
+Static code analysis - test that are run before the source code is even compiled and may be accompanied by manual peer reviews
+dynamic code analysis - test run after the code is compiled
+Fuzzing - used by dynamic analysis
+
 
